@@ -1,6 +1,6 @@
 {
     "disabled": [],
     "hooks": {
-        "pre-push": ["./vendor/bin/pint"]
+        "pre-commit": ["./vendor/bin/pint"]
     }
 }
